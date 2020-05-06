@@ -1,0 +1,11 @@
+/* Used minimal CSS-styles */
+
+.completed {
+  font-style: italic;
+  text-decoration: line-through;
+  color: rgb(92, 90, 90);
+}
+
+ul {
+  cursor: pointer;
+}
