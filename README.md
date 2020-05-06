@@ -4,11 +4,11 @@
 
 Simplified Vue Application
 
-## Running
-
-https://www.npmjs.com/
+## Run Application
 
 Using Node `npm install -g http-server && http-server`(the application can then be viewed via an `localhost:8080` setting displayed in the Code Editor and/or Terminal output results)
+
+https://www.npmjs.com/
 
 ## Misc. Notes
 
